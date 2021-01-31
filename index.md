@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Willkommen zum Karel Kurs
 
-You can use the [editor on GitHub](https://github.com/Trutz-Software-Consulting-GmbH/karel-kurs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In diesem Kurs lernen Kinder und Jugendliche zwischen 10 und 18 die Programmiersprache __Karel__. Natürlich dürfen auch ältere mitmachen 😉.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Was ist Karel?
 
-### Markdown
+Eine coole Programmiersprache mit der Du die grundlegenden Konzepte der Programmierung leicht lernen kannst. Wenn Du Karel kannst, dann lernst Du Java, Python & Co. viel schneller. Es ist sowieso wichtiger die Konzepte zu kennen und nicht eine bestimmte Programmiersprache.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Los geht's
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Trutz-Software-Consulting-GmbH/karel-kurs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
