@@ -6,5 +6,10 @@ In diesem Kurs lernen Kinder und Jugendliche zwischen 10 und 18 die Programmiers
 
 Eine coole Programmiersprache mit der Du die grundlegenden Konzepte der Programmierung leicht lernen kannst. Wenn Du Karel kannst, dann lernst Du Java, Python & Co. viel schneller. Es ist sowieso wichtiger die Konzepte zu kennen und nicht eine bestimmte Programmiersprache.
 
-## Los geht's
+## Wo und wann ist der Kurs?
 
+Online an bestimmten Terminen als Präsenzveranstaltung. Du benötigst also einen eigenen Rechner mit Internet und eine WebCam.
+
+## Wie kann ich mitmachen?
+
+Schreibe mir einfach eine kurze Email an __info@trutz-software-consulting.de__, ich gebe dann Bescheid, wenn der nächste Kurs startet.
