@@ -12,4 +12,4 @@ Online an bestimmten Terminen als Präsenzveranstaltung. Du benötigst also eine
 
 ## Wie kann ich mitmachen?
 
-Schreibe mir einfach eine kurze Email an __info@trutz-software-consulting.de__, ich gebe dann Bescheid, wenn der nächste Kurs startet.
+Schreibe mir einfach eine kurze Email an __info@trutz-software-consulting.de__, ich gebe dann Bescheid, wann der nächste Kurs startet.
