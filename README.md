@@ -1,1 +1,1 @@
-# karel-kurs
+# Karel Kurs
